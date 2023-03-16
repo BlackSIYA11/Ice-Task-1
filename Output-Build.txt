@@ -1,0 +1,9 @@
+﻿Build started...
+1>------ Build started: Project: ConsoleApp6, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Users\Brendon\source\repos\ConsoleApp6\ConsoleApp6\Program.cs(5,18,5,22): warning CS7022: The entry point of the program is global code; ignoring 'Main()' entry point.
+1>C:\Users\Brendon\source\repos\ConsoleApp6\ConsoleApp6\Program.cs(5,18,5,22): warning CS8321: The local function 'Main' is declared but never used
+1>ConsoleApp6 -> C:\Users\Brendon\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.dll
+1>Done building project "ConsoleApp6.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Elapsed 00:00.690 ==========
